@@ -1,4 +1,4 @@
-It is Simple OTP -Varification Form. It is based on ReactJs.
+It is Simple OTP varification Task. It is based on ReactJs.
 
 Screenshots:-
 
